@@ -17,6 +17,7 @@ This project performs an exploratory data analysis (EDA) on global CO₂ emissio
 
 ## 🚀 Run it in Google Colab
 Click to open in Colab:  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ayubarslaan/CO2-emission-analysis/blob/main/co2_analysis.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ayubarslaan/CO2-emission-analysis/blob/main/co2_analysis.ipynb
+)
 # CO2-emission-analysis
 Mini data analysis project using Python on global CO₂ emissions data.
