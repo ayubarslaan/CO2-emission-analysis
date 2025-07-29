@@ -13,7 +13,7 @@ This project performs an exploratory data analysis (EDA) on global CO₂ emissio
 - Trends over time (2000–2022)
 
 ## 📁 Files
-- `co2_analysis.ipynb`: The main analysis notebook
+- `CO2_analysis.ipynb`: The main analysis notebook
 
 ## 🚀 Run it in Google Colab
 Click to open in Colab:  
